@@ -15,10 +15,15 @@ Here you will find solutions, assignments, and educational projects structured b
 
 ## Computer Technologies and Programming
 
+### Practical Works
+
 - [**cpp-shopping-basket-pr4**](https://github.com/cherneha-vntu/cpp-shopping-basket-pr4) — C++ program demonstrating inheritance and virtual functions through a shopping basket simulation.
 - [**c-string-hashing-pr3**](https://github.com/cherneha-vntu/c-string-hashing-pr3) — C program demonstrating string hashing to find duplicate lines from a text file.
 - [**c-file-handling-pr2**](https://github.com/cherneha-vntu/c-file-handling-pr2) — C programs demonstrating text file character replacement and binary file string insertion.
 - [**c-positive-groups-pr1**](https://github.com/cherneha-vntu/c-positive-groups-pr1) — C program demonstrating processing of arrays to find, sum, and modify groups of consecutive positive numbers.
+
+### Laboratory Works
+
 - [**cpp-inheritance-laba8**](https://github.com/cherneha-vntu/cpp-inheritance-laba8) — C++ program demonstrating simple inheritance by implementing a base class for text analysis and a derived class for text modification.
 - [**cpp-classes-files-laba7**](https://github.com/cherneha-vntu/cpp-classes-files-laba7) — C++ programs demonstrating the development of classes with constructors and destructors for text and binary file handling.
 - [**cpp-classes-arrays-laba6**](https://github.com/cherneha-vntu/cpp-classes-arrays-laba6) — C++ programs demonstrating the use of simple classes and objects for manipulating 1D and 2D dynamic arrays.
