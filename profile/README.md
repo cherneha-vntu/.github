@@ -15,6 +15,14 @@ Here you will find solutions, assignments, and educational projects structured b
 
 ## Computer Technologies and Programming
 
+- [**cpp-inheritance-laba8**](https://github.com/cherneha-vntu/cpp-inheritance-laba8) — C++ program demonstrating simple inheritance by implementing a base class for text analysis and a derived class for text modification.
+- [**cpp-classes-files-laba7**](https://github.com/cherneha-vntu/cpp-classes-files-laba7) — C++ programs demonstrating the development of classes with constructors and destructors for text and binary file handling.
+- [**cpp-classes-arrays-laba6**](https://github.com/cherneha-vntu/cpp-classes-arrays-laba6) — C++ programs demonstrating the use of simple classes and objects for manipulating 1D and 2D dynamic arrays.
+- [**c-stack-operations-laba5**](https://github.com/cherneha-vntu/c-stack-operations-laba5) — C program demonstrating the implementation of a stack using a singly linked list and transferring odd elements between stacks.
+- [**c-struct-strings-laba4**](https://github.com/cherneha-vntu/c-struct-strings-laba4) — C programs demonstrating operations on arrays of structures and string word length parsing.
+- [**c-struct-notepad-laba3**](https://github.com/cherneha-vntu/c-struct-notepad-laba3) — C program demonstrating the use of an array of structures for storing, sorting, and searching records.
+- [**c-struct-sorting-laba2**](https://github.com/cherneha-vntu/c-struct-sorting-laba2) — C program demonstrating structure manipulation, bubble sorting, and linear searching for a route management system.
+- [**c-string-digits-laba1**](https://github.com/cherneha-vntu/c-string-digits-laba1) — C programs demonstrating how to count digits in strings with and without standard library functions.
 - [**c-matrix-algorithms-laba8**](https://github.com/cherneha-vntu/c-matrix-algorithms-laba8) — C program demonstrating the use of nested loops and 2D arrays for finding local minimums and calculating diagonal sums.
 - [**c-series-computation-laba7**](https://github.com/cherneha-vntu/c-series-computation-laba7) — C programs for computing mathematical series sums, including partial sums and calculations with a given precision.
 - [**c-iterative-loops-laba6**](https://github.com/cherneha-vntu/c-iterative-loops-laba6) — C programs demonstrating iterative calculations using for and while loops for function tabulation and summation.
