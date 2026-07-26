@@ -21,6 +21,8 @@ Here you will find solutions, assignments, and educational projects structured b
 - [**c-string-hashing-pr3**](https://github.com/cherneha-vntu/c-string-hashing-pr3) — C program demonstrating string hashing to find duplicate lines from a text file.
 - [**c-file-handling-pr2**](https://github.com/cherneha-vntu/c-file-handling-pr2) — C programs demonstrating text file character replacement and binary file string insertion.
 - [**c-positive-groups-pr1**](https://github.com/cherneha-vntu/c-positive-groups-pr1) — C program demonstrating processing of arrays to find, sum, and modify groups of consecutive positive numbers.
+- [**c-2d-arrays-pr4**](https://github.com/cherneha-vntu/c-2d-arrays-pr4) — C programs demonstrating operations on 2D arrays including row filtering, average calculation, and diagonal transformations.
+- [**c-1d-arrays-pr3**](https://github.com/cherneha-vntu/c-1d-arrays-pr3) — C program demonstrating the use of 1D arrays, finding maximum absolute elements, and computing products.
 
 ### Laboratory Works
 
