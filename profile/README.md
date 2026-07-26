@@ -15,6 +15,7 @@ Here you will find solutions, assignments, and educational projects structured b
 
 ## Computer Technologies and Programming
 
+- [**c-matrix-algorithms-laba8**](https://github.com/cherneha-vntu/c-matrix-algorithms-laba8) — C program demonstrating the use of nested loops and 2D arrays for finding local minimums and calculating diagonal sums.
 - [**c-series-computation-laba7**](https://github.com/cherneha-vntu/c-series-computation-laba7) — C programs for computing mathematical series sums, including partial sums and calculations with a given precision.
 - [**c-iterative-loops-laba6**](https://github.com/cherneha-vntu/c-iterative-loops-laba6) — C programs demonstrating iterative calculations using for and while loops for function tabulation and summation.
 - [**c-selection-operators-laba5**](https://github.com/cherneha-vntu/c-selection-operators-laba5) — C programs demonstrating conditional logic and branching using if-else statements.
