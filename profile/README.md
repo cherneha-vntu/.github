@@ -43,6 +43,7 @@ Here you will find solutions, assignments, and educational projects structured b
 
 ## Fundamentals of Computer-Integrated Technologies
 
+- [**bcit-esp32-mqtt-laba5**](https://github.com/cherneha-vntu/bcit-esp32-mqtt-laba5) — Modeling an IIoT system fragment on ESP32 with MQTT sensor telemetry and real-time dashboard visualization.
 - [**bcit-node-red-laba4**](https://github.com/cherneha-vntu/bcit-node-red-laba4) — Building monitoring dashboards and visual flows with Node-RED in containerized environments.
 
 ## Open for Opportunities
