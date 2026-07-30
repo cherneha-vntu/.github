@@ -40,6 +40,7 @@ Here you will find solutions, assignments, and educational projects structured b
 - [**c-selection-operators-laba5**](https://github.com/cherneha-vntu/c-selection-operators-laba5) — C programs demonstrating conditional logic and branching using if-else statements.
 - [**c-input-output-laba4**](https://github.com/cherneha-vntu/c-input-output-laba4) — A simple C program for console data input/output and formatted table printing.
 - [**simple-c-programs-laba3**](https://github.com/cherneha-vntu/simple-c-programs-laba3) — A set of small C programs for basic calculations (triangle area, time conversion).
+- [**blockly-maze-laba2**](https://github.com/cherneha-vntu/blockly-maze-laba2) — Solving the Blockly Games Maze puzzle across 10 levels with algorithm development and JavaScript solutions.
 
 ## Fundamentals of Computer-Integrated Technologies
 
